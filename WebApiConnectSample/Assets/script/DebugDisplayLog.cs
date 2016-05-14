@@ -4,6 +4,9 @@ using System.Collections.Generic;
 
 /**
  * フレームレート表示のためのクラス
+ * 
+ * 下記URLに記載してあったもの。
+ * http://d.hatena.ne.jp/komiyak/20141216/1418760578
  */
 public class DebugDisplayLog : MonoBehaviour
 {
